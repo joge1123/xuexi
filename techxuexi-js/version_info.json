@@ -1,0 +1,41 @@
+{
+    "techxuexi_js_version": "v20220329",
+    "notice": "...",
+    "techxuexi_js_update_log": [{
+        "version": "v20220329",
+        "info": "修复视频播放一直正在初始化的问题"
+    },{
+        "version": "v20220214",
+        "info": "修复因为视频学习的时长不够导致的问题"
+    },{
+        "version": "v20220206",
+        "info": "修复无法关闭视频"
+    },{
+        "version": "v20220205",
+        "info": "修复 视频学习不会自动关闭"
+    },{
+        "version": "v20220201",
+        "info": "更新cdn链接"
+    },{
+        "version": "v20220125",
+        "info": "适配 Kiwi Browser安卓浏览器"
+    },{
+        "version": "v20220121",
+        "info": "替换被墙的链接"
+    },{
+        "version": "v20211015",
+        "info": "初始化仓库，优化强国学习js"
+    },{
+        "version": "v20211129",
+        "info": "处理不自动播放视频和自动答题Bug"
+    },{
+        "version": "v20211216",
+        "info": "修复？"
+    },{
+        "version": "v20211221",
+        "info": "增加倒序答题配置"
+    },{
+        "version": "v20211223",
+        "info": "修复上一个合并引入的code:429错误"
+    }]
+}
